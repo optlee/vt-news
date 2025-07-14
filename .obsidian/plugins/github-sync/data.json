@@ -1,0 +1,7 @@
+{
+  "remoteURL": "git@github.com:optlee/vt-news.git",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": false,
+  "checkStatusOnLoad": true
+}
